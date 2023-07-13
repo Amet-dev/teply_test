@@ -13,10 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2></h2>
+			<h2>Описание</h2>
 		</header>
-		<p>Была произведена разработка прототипа беспроводной зарядной станции автономного необитаемого подводного аппарата. Со следующими техническими характеристиками.</p>
-
+		<p>Была произведена разработка прототипа беспроводной зарядной станции автономного необитаемого подводного аппарата. Принцип действия беспроводной зарядной станции основан на передачи энергии посредством переменного магнитного поля двух магнито-связанных катушек. Прототип разработан с учетом технических характеристик аппарата.</p>
 <h4 style="text-align: center;">Технические характеристики
 </h4>
 <div class="table-wrapper">
@@ -61,10 +60,9 @@ nav-menu: true
 				<td>50 мм</td>
 			</tr> 
 		</tbody>
-		
 	</table>
 </div>
-	</div>
+</div>
 	
 </section>
 
@@ -72,7 +70,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic208.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
